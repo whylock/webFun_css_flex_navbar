@@ -1,0 +1,31 @@
+#navbar {
+	display: flex;
+	padding: 10px 10px 10px 10px;
+	align-items: center;
+	background-color: cornflowerblue;
+}
+
+#navbar img {
+	height: 50px;
+	width: 50px;
+}
+
+#navbar h1 {
+	font-family: "Montserrat", sans-serif;
+	font-size: 1.3rem;
+	color: white;
+	margin-left: 20px;
+}
+
+.container {
+	display: flex;
+	list-style-type: none;
+	justify-content: flex-end;
+}
+
+.link {
+	display: flex;
+	margin-left: 200px;
+	text-decoration: none;
+	color: white;
+}
